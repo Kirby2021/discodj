@@ -56,6 +56,8 @@ let player = new LavaPlayer(client, {
   port: 443, // Your lavalink host port
   leaveOnEmpty: true, // if you want when song stop bot also leave vc
   password: "LAVA", // Your lava host password ... more options
+  spotifyClientID: " ", // spotify client id for spotify songs
+  spotifyClientSecret: " ", // spotify client secret id for spotify songs
 });
 
 client.on("ready", async () => {
@@ -333,3 +335,5 @@ client.on("messageCreate", async (message) => {
   }
 });
 ```
+
+# Thanks for Visiting
