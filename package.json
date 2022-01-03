@@ -1,0 +1,54 @@
+{
+  "name": "discodj",
+  "version": "1.0.3",
+  "description": "A Lavalink Music Package for Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kabirsingh2004"
+  },
+  "keywords": [
+    "lava",
+    "musicc",
+    "musicplayer",
+    "player",
+    "bot",
+    "framework",
+    "discord",
+    "volume",
+    "queue",
+    "youtube",
+    "discord.js",
+    "musicbot",
+    "discord-music-player",
+    "discord-music",
+    "music-player",
+    "youtube-dl",
+    "ytdl-core",
+    "ytdl",
+    "lavalink",
+    "api",
+    "music",
+    "discord",
+    "discordjs",
+    "bot",
+    "queue",
+    "musicbot",
+    "discord-music-bot",
+    "music-bot"
+  ],
+  "author": "Tech Boyᵈᵉᵛ#9610",
+  "license": "ISC",
+  "dependencies": {
+    "better-erela.js-spotify": "^1.2.3",
+    "discord.js": "^13.5.0",
+    "erela.js": "^2.3.3",
+    "erela.js-apple": "^1.2.6",
+    "erela.js-deezer": "^1.0.7",
+    "eventemitter2": "^6.4.5",
+    "node-fetch": "^2.6.6"
+  }
+}
